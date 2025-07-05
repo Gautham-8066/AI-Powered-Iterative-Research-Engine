@@ -10,4 +10,4 @@ Links to past learnings,
 
 And repeats this process until confident results are reached.
 
-Powered by semantic search, DuckDuckGo, and NLP, it simulates intelligent, iterative scientific reasoning — all without relying on a traditional LLM.
+Powered by semantic search, Serper, and NLP, it simulates intelligent, iterative scientific reasoning — all without relying on a traditional LLM.
