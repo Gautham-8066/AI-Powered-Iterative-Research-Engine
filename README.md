@@ -1,7 +1,5 @@
 # An AI system that mimics human research by iteratively refining hypotheses using web data, NLP, and semantic search.
 
-This 
-
 Generates ideas,
 
 Validates them using real-time web data,
